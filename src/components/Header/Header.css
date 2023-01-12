@@ -1,0 +1,17 @@
+.header{
+    justify-content:space-between ;
+    display: flex;
+}
+
+.logo{
+    width: 10rem;
+    height: 3rem;
+
+}
+
+.headerm{
+    list-style: none;
+    gap: 2rem;
+    display: flex;
+    color: white;
+}
